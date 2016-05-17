@@ -9,6 +9,8 @@ Eclipse http://mirror.tspu.ru/eclipse/
 
 Gentoo Linux http://mirror.tspu.ru/gentoo/
 
+openSUSE http://mirror.tspu.ru/opensuse/
+
 Debian http://debian.randoman.ru/ | http://deb.debian.tsk.ru/ | http://mirror.debian.tsk.ru/
 
 Ubuntu http://ubuntu.randoman.ru/ | http://mirror.tspu.ru/ubuntu/
