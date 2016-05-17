@@ -15,6 +15,8 @@ Ubuntu http://ubuntu.randoman.ru/ | http://mirror.tspu.ru/ubuntu/
 
 Ubuntu Install Images http://mirror.tspu.ru/ubuntu-releases/
 
+Slackware Linux http://slackware.tsu.ru/
+
 Zenwalk http://mirror.tspu.ru/zenwalk/
 
 
